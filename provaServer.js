@@ -14,7 +14,7 @@ console.log("server in ascolto sulla porta " + porta);
 server.set("view engine", "ejs"); //fa usare come view ejs invece che html
 server.get("/", function(req,res){
 
-res.render("homepage");
+res.render("chisiamo");
 });
 
 server.post("/", function(req, res){

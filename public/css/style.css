@@ -1,0 +1,88 @@
+
+.bottoniHome{ line-height: 100px; }
+
+
+.banner{
+    height: 50px;
+    background-color:#ff921d;
+    font-size: 110%;
+    
+}
+a {color: white;  
+text-decoration: none;
+   
+            
+  }
+  a:hover{
+      color : white;
+      text-decoration: none;
+     
+  }
+
+ 
+#logo{
+    position: relative;
+    
+   
+}
+
+
+.btn-custom{
+    color: white;
+    background-color: #ff921d;
+    border: #ff921d;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+
+}
+
+
+.btn-custom:hover {
+  color: #ffffff;
+  background-color: #ff921d;
+  border-color: #ff921d;
+  border-bottom: 3px solid #FF1F35;
+}
+
+
+
+
+.btn-custom:focus{
+color: black;
+}
+
+.dropdown-menu{
+    position: absolute;
+    background-color: #FF1F35;
+    
+}
+
+.dropdown-menu>a{
+    color: white;
+}
+.dropdown-menu > a:hover{
+    color: black;
+    background-color: #FF8100;
+}
+ 
+.rettangolo {
+    position: relative;
+	width:700px;
+	height:800px;
+    
+    margin: 0 auto;
+	background:tan;
+}
+.carousel {
+  width:80%;
+  margin: auto;
+}
+.img-responsive {
+  display: inline-block;
+  height: auto;
+  max-width: 100%;
+}
+
+
+
+
+
